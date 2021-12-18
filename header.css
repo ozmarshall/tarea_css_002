@@ -1,0 +1,33 @@
+/*HEADER*/
+header {
+  background: #9ECEFA;
+  padding: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  /*esto funciona en forma vertical*/
+  /*align item : center alinea los elementos con refrencia al mas grande*/
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #87119A;
+  margin-bottom: 25px;
+}
+
+header .logo {
+  font-size: 52px;
+}
+
+header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header li {
+  margin-left: 30px;
+  font-size: 24px;
+}

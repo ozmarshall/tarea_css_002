@@ -1,0 +1,42 @@
+/*MAIN*/
+.align_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.fig_001 img {
+  width: 410px;
+  height: 251px;
+  border-radius: 8px;
+  width: 30%;
+}
+
+.fig_002 img {
+  width: 410px;
+  height: 251px;
+  border-radius: 8px;
+}
+
+.fig_003 img {
+  width: 892px;
+  height: 545px;
+  border-radius: 8px;
+}
+
+.Dos_partes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.noticias {
+  padding-bottom: 25px;
+}
+
+.division {
+  padding-bottom: 25px;
+}
